@@ -13,7 +13,19 @@ Allows an affiliate to earn commission on their own referral links.
 
 > This plugin requires [AffiliateWP](http://affiliatewp.com/ "AffiliateWP") v1.7+ in order to function.
 
-The standard behaviour of AffiliateWP is to prevent affiliates from earning a commission on their own referrals, either via referral links or coupon codes. When this plugin is installed and activated, affiliates will be able to earn a commission on their own referral links or coupons if they make a purchase.
+The standard behaviour of AffiliateWP is to prevent affiliates from earning a commission on their own referrals, either via referral links or coupon codes. When this plugin is installed and activated, affiliates will be able to earn a commission on their own referral links or coupons if they make a purchase. Affiliates can also earn commissions on their own purchases without using a referral link our coupon by simply logging in before purchasing. (This auto-detection feature is supported by the integrations below)
+
+**Supported Integrations**
+
+1. WooCommerce
+2. Paid Memberships Pro
+3. MemberPress
+4. Gravity Forms
+5. Easy Digital Downloads
+6. MemberMouse
+7. Ninja Forms
+8. Restrict Content Pro
+9. iThemes Exchange
 
 **What is AffiliateWP?**
 
@@ -29,6 +41,10 @@ The standard behaviour of AffiliateWP is to prevent affiliates from earning a co
 OR you can just install it with WordPress by going to Plugins &rarr; Add New &rarr; and type this plugin's name.
 
 == Changelog ==
+
+= 1.1 =
+
+* New: Automatically detect logged-in affiliates when making purchases
 
 = 1.0.1 =
 
